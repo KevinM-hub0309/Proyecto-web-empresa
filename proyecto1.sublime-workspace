@@ -1,0 +1,1014 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"passwordhash"
+			],
+			[
+				"pa",
+				"passwordhash"
+			],
+			[
+				"n",
+				"nonbre_usuario"
+			],
+			[
+				"t",
+				"telefono"
+			],
+			[
+				"CI",
+				"CiudadanoDAO"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"f",
+				"fa-bolt"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"u",
+				"update_user"
+			],
+			[
+				"Us",
+				"UserMapper"
+			],
+			[
+				"_",
+				"_identity_map"
+			],
+			[
+				"us",
+				"users"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"__i",
+				"__init__"
+			],
+			[
+				"use",
+				"user_id"
+			],
+			[
+				"pr",
+				"products"
+			],
+			[
+				"prduct",
+				"product_row"
+			],
+			[
+				"pro",
+				"product_id"
+			],
+			[
+				"em",
+				"employeeDao"
+			],
+			[
+				"pri",
+				"print_r()"
+			],
+			[
+				"Em",
+				"EmployeeDAOImpl"
+			],
+			[
+				"c",
+				"charset"
+			],
+			[
+				"Employee",
+				"EmployeeDAOImpl.php"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"al",
+				"allUsers"
+			],
+			[
+				"fu",
+				"funcion_modificada"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"clie",
+				"clienteTableBody"
+			],
+			[
+				"respon",
+				"responseData"
+			],
+			[
+				"th",
+				"th"
+			],
+			[
+				"ara",
+				"array()"
+			],
+			[
+				"v",
+				"vehiculos/"
+			],
+			[
+				"prin",
+				"print_r()"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"array",
+				"array()"
+			],
+			[
+				"da",
+				"datos_ventas_2"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"j",
+				"jquery/"
+			],
+			[
+				"delete",
+				"deleteBorrar"
+			],
+			[
+				"operacion",
+				"operacion_patch"
+			],
+			[
+				"cos",
+				"cosmeticos"
+			],
+			[
+				"conso",
+				"console_log"
+			],
+			[
+				"op",
+				"operacion_put"
+			],
+			[
+				"operacion_p",
+				"operacion_put"
+			],
+			[
+				"i",
+				"imagen"
+			],
+			[
+				"usu",
+				"usuarios"
+			],
+			[
+				"id_",
+				"id_usuario"
+			],
+			[
+				"id",
+				"id_usuario"
+			],
+			[
+				"pl",
+				"plantilla_a"
+			],
+			[
+				"mi",
+				"mi_texto"
+			],
+			[
+				"getDa",
+				"getDay"
+			],
+			[
+				"getM",
+				"getMonth"
+			],
+			[
+				"cal",
+				"calculo_area"
+			],
+			[
+				"fun",
+				"funcion.js"
+			],
+			[
+				"func",
+				"Function"
+			],
+			[
+				"prue",
+				"prueba_3"
+			],
+			[
+				"con",
+				"constructor"
+			],
+			[
+				"playe",
+				"player_1"
+			],
+			[
+				"el",
+				"else_if"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"setTi",
+				"setTimeout"
+			],
+			[
+				"curl",
+				"curl_init()"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"print",
+				"print_r()"
+			],
+			[
+				"d",
+				"df_3"
+			],
+			[
+				"app",
+				"app_template_filter"
+			],
+			[
+				"route",
+				"route"
+			],
+			[
+				"li",
+				"lista_2"
+			],
+			[
+				"l",
+				"lectura.txt"
+			],
+			[
+				"ar",
+				"archvio_2"
+			],
+			[
+				"sum",
+				"suma_resta.operacion"
+			],
+			[
+				"na",
+				"__name__"
+			],
+			[
+				"mo",
+				"modulo_saludar"
+			],
+			[
+				"IN",
+				"input"
+			],
+			[
+				"sa",
+				"saludo"
+			],
+			[
+				"fi",
+				"filter"
+			],
+			[
+				"nu",
+				"numero_entero"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"r",
+				"recorrido"
+			],
+			[
+				"int",
+				"input"
+			],
+			[
+				"1",
+				"1.jpg"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"fo",
+				"footer"
+			],
+			[
+				"sess",
+				"session_destroy()"
+			],
+			[
+				"ss",
+				"$_SESSION\tSESSION['…']"
+			],
+			[
+				"pass",
+				"password_verify()"
+			],
+			[
+				"U",
+				"usuario"
+			],
+			[
+				"g",
+				"gestion profesores/"
+			],
+			[
+				"cor",
+				"coordinador_profesor"
+			],
+			[
+				"es",
+				"escudo.jpeg"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"b",
+				"background-size"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"dat",
+				"datos_academicos.php"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"padi",
+				"padding"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 235,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/PHP/PHP.sublime-build",
+					""
+				],
+				[
+					"Packages/PHP/PHP.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/PHP/PHP.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Flask.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Flask.sublime-build",
+					"Run Flask"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Flask.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Flask.sublime-build",
+					"Run Flask"
+				]
+			],
+			[
+				"Packages/User/Flask.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ter",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"Terminus: Open Default Shell in Panel",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"theme",
+				"Material Theme: Activate theme"
+			],
+			[
+				"mate",
+				"Material Theme: Activate theme"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+			"cd c:",
+			"cd",
+			"qsWSwdsxd",
+			"sas",
+			"j"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Kevin/Documents/practica git/proyecto1"
+	],
+	"file_history":
+	[
+		"/C/Users/Kevin/Documents/practica git/proyecto1/js/archivo.js",
+		"/C/Users/Kevin/Documents/practica git/proyecto1/index.html",
+		"/C/Users/Kevin/Documents/practica git/CursoGit/index.html",
+		"/C/Users/Kevin/Documents/practica git/CursoGit/js/archivo.js",
+		"/C/Users/Kevin/Documents/practica git/CursoGit/css/archivo.css",
+		"/C/Users/Kevin/Documents/practica git/CursoGit/curso_git.sublime-project",
+		"/C/Users/Kevin/AppData/Roaming/Sublime Text/Packages/User/Terminus.sublime-settings",
+		"/C/Users/Kevin/AppData/Roaming/Sublime Text/Packages/Terminus/Terminus.sublime-settings",
+		"/C/Users/Kevin/Documents/practica git/CursoGit/.git/COMMIT_EDITMSG",
+		"/C/Apache24/htdocs/MVC/Public/Assets/js/registroCiudadano.js",
+		"/C/Apache24/htdocs/MVC/App/Views/registroCiudadano.view.php",
+		"/C/Apache24/htdocs/MVC/Public/Assets/css/registroCiudadano.css",
+		"/C/Apache24/htdocs/MVC/Public/Assets/css/home.css",
+		"/C/Apache24/htdocs/MVC/.git/MERGE_MSG",
+		"/C/Apache24/htdocs/MVC/App/Views/loginCiudadano.view.php",
+		"/C/Apache24/htdocs/MVC/Public/Assets/css/loginCiudadano.css",
+		"/C/Apache24/htdocs/MVC/App/Controllers/PageController.php",
+		"/C/Apache24/htdocs/MVC/Public/Assets/js/recuperacionCiudadano.js",
+		"/C/Apache24/htdocs/MVC/App/Models/dao/preguntasSeguridadDAO.php",
+		"/C/Apache24/htdocs/MVC/App/Models/domain/PreguntasSeguridad.php",
+		"/C/Apache24/htdocs/MVC/App/Controllers/RecuperacionController.php",
+		"/C/Apache24/htdocs/MVC/App/autoload.php",
+		"/C/Apache24/htdocs/MVC/App/Models/dao/ciudadanoDAO.php",
+		"/C/Apache24/htdocs/MVC/Public/Assets/css/recuperacionCiudadano.css",
+		"/C/Apache24/htdocs/MVC/App/router.php",
+		"/C/Apache24/htdocs/MVC/App/Views/recuperacionCiudadano.view.php",
+		"/C/Apache24/htdocs/MVC/App/config.php",
+		"/C/Apache24/htdocs/MVC/App/Controllers/recuperacionController.php",
+		"/C/Apache24/htdocs/MVC/App/Controllers/RegistroController.php",
+		"/C/Apache24/htdocs/MVC/App/Helpers/middleware.php",
+		"/C/Apache24/htdocs/MVC/App/Controllers/AutenticationController.php",
+		"/C/Apache24/htdocs/MVC/App/Models/domain/Contrato.php",
+		"/C/Apache24/htdocs/MVC/App/Models/dao/contratoDAO.php",
+		"/C/Apache24/htdocs/MVC/Public/Assets/js/loginCiudadano.js",
+		"/C/Apache24/htdocs/MVC/Public/test_login.php",
+		"/C/Apache24/htdocs/MVC/Public/index.php",
+		"/C/Apache24/htdocs/MVC/App/Controllers/CiudadanoController.php",
+		"/C/Apache24/htdocs/MVC/App/test_login.php",
+		"/C/Apache24/htdocs/MVC/Public/Assets/js/ciudadano_dashboard.js",
+		"/C/Apache24/htdocs/MVC/Public/Assets/css/ciudadano_dashboard.css",
+		"/C/Apache24/htdocs/MVC/App/Views/ciudadano_dashboard.view.php",
+		"/C/Apache24/htdocs/MVC/Public/Assets/js/clienteNew.js",
+		"/C/Apache24/htdocs/MVC/App/Models/domain/Ciudadano.php",
+		"/C/Apache24/htdocs/MVC/App/Controllers/ClienteController.php",
+		"/C/Apache24/htdocs/MVC/App/Views/nuevo.view.php",
+		"/C/Apache24/htdocs/MVC/App/Models/DAO/ciudadanoDAO.php",
+		"/C/Apache24/htdocs/MVC/App/Core/Orm.php",
+		"/C/Apache24/htdocs/MVC/App/Services/Database.php",
+		"/C/Apache24/htdocs/MVC/.htaccess",
+		"/C/Apache24/htdocs/MVC/Corpoelec/Registro.html",
+		"/C/Apache24/htdocs/MVC/App/Views/home.view.php",
+		"/C/Apache24/htdocs/MVC/Public/Assets/js/home.js",
+		"/C/Apache24/htdocs/MVC/App/Views/loginCiudadano.view - copia.php",
+		"/C/Apache24/htdocs/MVC/App/Core/Controller.php",
+		"/C/Apache24/htdocs/MVC/Corpoelec/js/home.js",
+		"/C/Apache24/htdocs/MVC/Corpoelec/home.html",
+		"/C/Apache24/htdocs/MVC/Corpoelec.rar",
+		"/C/Apache24/htdocs/MVC/App/Views/clienteNuevo.view.php",
+		"/C/Apache24/htdocs/proyecto_mvc/Public/.htaccess",
+		"/C/Users/Kevin/Documents/curso/patrones/patrones_persistencia/Active Record/1.py",
+		"/C/Users/Kevin/Documents/curso/patrones/patrones_persistencia/Table Gateway/personaGateway.py",
+		"/C/Users/Kevin/Documents/curso/patrones/patrones_persistencia/Active Record/product.py",
+		"/C/Users/Kevin/Documents/curso/patrones/patrones_persistencia/Active Record/main.py",
+		"/C/Users/Kevin/Documents/curso/patrones/patrones_persistencia/Active Record/connection.py",
+		"/C/Users/Kevin/Documents/curso/patrones/Table Mapper/main.py",
+		"/C/Users/Kevin/Documents/curso/patrones/Table Mapper/user.py",
+		"/C/Users/Kevin/Documents/curso/patrones/Table Mapper/userMapper.py",
+		"/C/Apache24/htdocs/DataMapper/src/Entity/Product.php",
+		"/C/Apache24/htdocs/DataMapper/src/bootstrap.php",
+		"/C/Apache24/htdocs/DataMapper/tools/create_schema.php",
+		"/C/Apache24/htdocs/DataMapper/composer.json",
+		"/C/Apache24/htdocs/DataMapper/src/Entity/boostrap.php",
+		"/C/Apache24/htdocs/DAO/EmployeeDAOImpl.php",
+		"/C/Apache24/htdocs/DAO/EmployeeDAO.php",
+		"/C/Apache24/htdocs/DAO/Employee.php",
+		"/C/Apache24/htdocs/DAO/main.php",
+		"/C/Apache24/htdocs/ActiveRecord/composer.json",
+		"/C/Apache24/htdocs/ActiveRecord/src/active_record_user.php",
+		"/C/Users/Kevin/AppData/Roaming/Sublime Text/Packages/User/PHP.sublime-build",
+		"/C/Apache24/htdocs/ActiveRecord/src/user.php",
+		"/C/Apache24/htdocs/ActiveRecord/src/main.php",
+		"/C/Users/Kevin/AppData/Roaming/Sublime Text/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/Kevin/Documents/curso/POO/decoradores_clase.py",
+		"/C/Users/Kevin/Documents/curso/POO/abstraccion.py",
+		"/C/Users/Kevin/Documents/curso/POO/decorador.py",
+		"/C/Users/Kevin/Documents/curso/POO/herencia_multiple.py",
+		"/C/Users/Kevin/Documents/curso/POO/herencia.py",
+		"/C/Users/Kevin/Documents/curso/POO/clases_objetos.py",
+		"/C/Apache24/htdocs/MVC/Public/Assets/js/cliente.js",
+		"/C/Apache24/htdocs/MVC/App/Views/cliente.view.php",
+		"/C/Users/Kevin/Documents/cruso php/API/apis.php",
+		"/C/Users/Kevin/Documents/cruso php/API/prueba.html",
+		"/C/Apache24/htdocs/MVC/App/Views/clienteNew.view.php",
+		"/C/Apache24/htdocs/MVC/App/Views/layouts/site.layout.php",
+		"/C/Apache24/htdocs/MVC/App/Helpers/common.php",
+		"/C/Apache24/htdocs/MVC/Public/Assets/js/scripts.js",
+		"/C/Apache24/htdocs/MVC/Public/Assets/css/styles.css",
+		"/C/Apache24/htdocs/1/2/3/1.php",
+		"/C/Apache24/htdocs/MVC/App/Controllers/UsuarioController.php",
+		"/C/Apache24/htdocs/ORM_PHP/index.php",
+		"/C/Apache24/htdocs/ORM_PHP/Orm.php",
+		"/C/Users/Kevin/Documents/MVC/index.php",
+		"/C/Users/Kevin/Documents/curso_MVC/route.php",
+		"/C/Users/Kevin/Documents/curso_MVC/index.php",
+		"/C/Users/Kevin/Documents/curso_MVC/models/VehiculosModels.php",
+		"/C/Users/Kevin/Documents/curso_MVC/controllers/Vehiculos.php",
+		"/C/Users/Kevin/Documents/curso_MVC/views/vehiculos/vehiculos.php",
+		"/C/Users/Kevin/Documents/curso_MVC/config/database.php",
+		"/C/Users/Kevin/Documents/nodejs/graficos/1.html",
+		"/C/Users/Kevin/Documents/nodejs/graficos/prueba.html",
+		"/C/Users/Kevin/Documents/nodejs/graficos/2.html",
+		"/C/Users/Kevin/Documents/cruso php/BD/CONEXION_PDO_POO/PDO.php",
+		"/C/Users/Kevin/Documents/cruso php/BD/CONEXION_PDO_POO/PDO_POO.php",
+		"/C/Users/Kevin/Documents/cruso php/API/prueba.rest",
+		"/C/Users/Kevin/Documents/nodejs/promesas.js",
+		"/C/Users/Kevin/Documents/cruso php/BD/CONEXION_PDO_POO/PDO_POO_Full.php",
+		"/C/Users/Kevin/Documents/nodejs/jquery/html/HTMLSTRING_SELECTORES.html",
+		"/C/Users/Kevin/Documents/nodejs/jquery/html/each_map.html",
+		"/C/Users/Kevin/Documents/nodejs/jquery/html/evento_onclik.html",
+		"/C/Users/Kevin/Documents/nodejs/php_js_api/script.js",
+		"/C/Users/Kevin/Documents/nodejs/php_js_api/index.html",
+		"/C/Users/Kevin/Documents/nodejs/php_js_api/api.php",
+		"/C/Users/Kevin/Documents/nodejs/jquery/html/hide-show.html",
+		"/C/Users/Kevin/Documents/nodejs/jquery/html/Object.html",
+		"/C/Users/Kevin/Documents/nodejs/jquery/html/1.HTML",
+		"/C/Users/Kevin/Documents/nodejs/jquery/html/prueba.html",
+		"/C/Users/Kevin/Documents/nodejs/Jquery.js",
+		"/C/Users/Kevin/Documents/nodejs/funciones_flechas.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								216,
+								216
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.Terminus":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"output.exec":
+	{
+		"height": 119.0,
+		"history":
+		[
+			"3",
+			"2",
+			"sd,lad,lñ,d",
+			"sxsx",
+			"d",
+			"3e",
+			"0",
+			"8",
+			"j",
+			"6",
+			"h",
+			"g",
+			"2",
+			"222",
+			"e",
+			"w",
+			"e",
+			"3",
+			"2",
+			"0",
+			"6",
+			"hbhbj",
+			"ghgjj",
+			"6",
+			"hgh",
+			"2",
+			"1",
+			"k",
+			"w",
+			"dhwkjdkawd",
+			"2",
+			"1",
+			"2",
+			"1",
+			"SFDJNSDKJLF",
+			"1",
+			"12",
+			"4",
+			"2",
+			"1",
+			"2",
+			"1.2",
+			"2",
+			"w",
+			"kevin",
+			"nefj",
+			"tr,el5tl5t",
+			",rlwemrlñe"
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "Packages/PHP/PHP.sublime-build",
+	"project": "proyecto1.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Kevin\\Documents\\practica git\\CursoGit\\curso_git.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 238.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
